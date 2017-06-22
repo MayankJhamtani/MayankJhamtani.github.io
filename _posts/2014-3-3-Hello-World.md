@@ -3,7 +3,7 @@ layout: post
 title: Summer'17: My first experience with Data Science!
 ---
 
-### In my first blog post, I will be describing my first formal data science project, and the motivation behind documenting my ### progress in the form of a blog.
+### In my first blog post, I will be describing my first formal data science project, and the motivation behind documenting my progress in the form of a blog.
 
 I am deeply influenced by the philosphy of the open-source movement, wherein all knowledge, code and products are made easily accessible to as many people as possible. This not only provides the users with the final product, but also the ability to tinker around,implement new features and fix bugs. Eventually, this translates to open collaboration, enthusiasts all over the world can now make contributions, leading to products which are often better than pay-walled content. The tools which I used for my current project have all been built on the open source philosphy. I got useful insights and nuances to use these tools from the blogs I read and decided to write a blog myself. Apart from this, I believe writing a blog is a great way to track my own progress, shortcomings and showcase my skill-set.
 
