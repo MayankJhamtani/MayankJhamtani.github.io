@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer'17: My first experience with Data Science!
+title: Summer'17, My first experience with Data Science!
 ---
 
 ### In my first blog post, I will be describing my first formal data science project, and the motivation behind documenting my progress in the form of a blog.
