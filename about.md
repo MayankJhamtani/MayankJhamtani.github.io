@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+A student at BITS-Pilani Goa. Passionate about making knowledge accessible to all, Mathematics and Chess.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mayankjhamtani26@gmail.com](mailto:mayankjhamtani26@gmail.com)
