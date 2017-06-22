@@ -22,7 +22,7 @@ In my current project, I am trying to implement a predictive model for forecasti
 
 ### I realised the problem can be broken down into 5 key steps -
 1. Obtaining the past data to train the model, and automating the process to obtain the new data everyday.
-2. Pre-processing the data, and finding the various independent variables and how they effect the MCP
+2. Pre-processing the data, visualizing it and finding the various independent variables and how they effect the MCP
 3. Building a basic nueral-network based model to predict the MCP to test if a more advanced but similar approach would work.
 4. Optimizing the netwrok and implementing a better nueral-network architecture like CNN or LSTM to get improved results.
 5. Building a simple interface so that a layman can easily use it to make a prediction.
